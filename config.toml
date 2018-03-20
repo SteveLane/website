@@ -1,5 +1,5 @@
 baseurl = "/"
-title = "Stephen E Lane"
+title = "GTownDS"
 theme = "ghostwriter"
 languageCode = "en-us"
 copyright = "Stephen E Lane"
@@ -19,7 +19,7 @@ pygmentsStyle = "monokai"
 
 [Params]
     intro = true
-    headline = "Stephen E Lane"
+    headline = "GTown Data Scientist"
     description = "Thoughts, ramblings, and random code snippets"
     github = "https://github.com/SteveLane/"
     twitter = "https://twitter.com/stephenelane/"
