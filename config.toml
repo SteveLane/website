@@ -1,0 +1,52 @@
+baseurl = "/"
+title = "Stephen E Lane"
+theme = "ghostwriter"
+languageCode = "en-us"
+copyright = "Stephen E Lane"
+disqusShortname = "stephenelane"
+googleAnalytics = "UA-56563625-1"
+pygmentsUseClassic = false
+pygmentsCodeFences = true
+pygmentsStyle = "monokai"
+
+[Author]
+    name = "Steve Lane"
+    profile = "/page/about/"
+
+[Taxonomies]
+    tag = "tags"
+    category = "categories"
+
+[Params]
+    intro = true
+    headline = "Stephen E Lane"
+    description = "Thoughts, ramblings, and random code snippets"
+    github = "https://github.com/SteveLane/"
+    twitter = "https://twitter.com/stephenelane/"
+    email = "lane.s@unimelb.edu.au"
+    opengraph = true
+    shareTwitter = true
+    dateFormat = "January 02, 2006"
+
+[Permalinks]
+    post = "/:year/:month/:day/:slug/"
+
+[[menu.main]]
+    name = "Home"
+    url = "/"
+    weight = 1
+
+[[menu.main]]
+    name = "Tags"
+    url = "/tags/"
+    weight = 2
+
+[[menu.main]]
+    name = "About"
+    url = "/page/about/"
+    weight = 4
+
+[[menu.main]]
+    name = "Contact"
+    url = "/page/contact/"
+    weight = 3
