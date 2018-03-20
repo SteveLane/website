@@ -2,7 +2,6 @@
 title: "Reviewer Responses"
 description: "In which we have our cake and eat it too."
 date: 2018-03-20T20:42:18+11:00
-publishDate: 2018-03-21
 tags: ["git", "cmdline"]
 categories: blog
 ---
