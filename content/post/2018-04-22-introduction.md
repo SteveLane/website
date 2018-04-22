@@ -1,12 +1,12 @@
 ---
 title: "superNetballR Analysis"
 description: "A model for predicting super netball results"
-date: "2018-04-18"
+date: "2018-04-22"
 tags: ["r", "sports analytics"]
 categories: ["blog", "Super Netball"]
 ---
 
-<!-- Time-stamp: <2018-04-22 19:21:58 (slane)> -->
+<!-- Time-stamp: <2018-04-22 19:27:29 (slane)> -->
 
 
 
