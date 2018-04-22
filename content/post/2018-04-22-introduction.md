@@ -6,13 +6,13 @@ tags: ["r", "sports analytics"]
 categories: ["blog", "Super Netball"]
 ---
 
-<!-- Time-stamp: <2018-04-22 15:12:03 (slane)> -->
+<!-- Time-stamp: <2018-04-22 19:21:58 (slane)> -->
 
 
 
 I recently put together a [package](https://stevelane.github.io/superNetballR/) for getting a hold of super netball data. It now comes time to start using it! The figure below shows the abilities (ratings) of each team at the _end of the 2017 finals_ campaign. I'll describe it soon.
 
-!["super netball score abilities"](/sn-assets/round1-2018/abilities.png)
+!["super netball score abilities"](/sn-assets/intro-2018/abilities.png)
 
 ## The Model
 
@@ -52,7 +52,7 @@ The next figure shows the home ground advantage. There's no distinct home advant
 
 What is surprising is the Thunderbirds home ground advantage. For a team that finished bottom of the ladder, this would suggest that their losses may have been even more severe if it weren't for the advantage playing at home.
 
-![home ground advantage](/sn-assets/round1-2018/hga.png)
+![home ground advantage](/sn-assets/intro-2018/hga.png)
 
 ## Moving Forward
 
