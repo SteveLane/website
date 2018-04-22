@@ -42,9 +42,14 @@ pygmentsStyle = "monokai"
     weight = 2
 
 [[menu.main]]
+    name = "Super Netball"
+    url = "/categories/super-netball/"
+    weight = 3
+
+[[menu.main]]
     name = "Categories"
     url = "/categories/"
-    weight = 3
+    weight = 4
 
 [[menu.main]]
     name = "About"
