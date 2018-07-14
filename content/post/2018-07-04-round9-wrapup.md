@@ -21,10 +21,10 @@ If you missed my round 9 predictions, [here they are]({{< relref "2018-06-29-rou
 
 |Home                     |Away                  |Chance of home team winning | Home Score| Away Score|Winner                   |
 |:------------------------|:---------------------|:---------------------------|----------:|----------:|:------------------------|
-|NSW Swifts               |Melbourne Vixens      |37%                         |         58|         65|Melbourne Vixens         |
-|Magpies Netball          |West Coast Fever      |63%                         |         57|         70|West Coast Fever         |
-|Sunshine Coast Lightning |Queensland Firebirds  |50%                         |         58|         57|Sunshine Coast Lightning |
-|GIANTS Netball           |Adelaide Thunderbirds |95%                         |         63|         44|GIANTS Netball           |
+|NSW Swifts               |Melbourne Vixens      |37%                         |        290|        325|Melbourne Vixens         |
+|Magpies Netball          |West Coast Fever      |63%                         |        285|        350|West Coast Fever         |
+|Sunshine Coast Lightning |Queensland Firebirds  |50%                         |        290|        285|Sunshine Coast Lightning |
+|GIANTS Netball           |Adelaide Thunderbirds |95%                         |        315|        220|GIANTS Netball           |
 
 ## Team Abilities
 
